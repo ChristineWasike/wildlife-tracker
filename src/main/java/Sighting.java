@@ -10,6 +10,7 @@ public class Sighting {
     private String rangerName;
     private int id;
     private int animalId;
+    private Timestamp timestamp;
             
     public Sighting(String location, String rangerName, int id) {
         this.location = location;
