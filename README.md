@@ -16,7 +16,7 @@
 **Set Up and Installation**
 1. Download the project folders
 > ```
->$ git clone https://github.com/ChristineWasike/hairsalon.git
+>$ git clone https://github.com/ChristineWasike/wildlife-tracker.git
 >$ cd hairsalon
 >```
 2. Change postgres db login details
